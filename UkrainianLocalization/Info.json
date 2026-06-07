@@ -1,9 +1,0 @@
-{
-  "Id": "UkrainianLocalization",
-  "DisplayName": "Ukrainian Localization",
-  "Author": "Liones3000 / Ukrainian community",
-  "Version": "0.1.0",
-  "ManagerVersion": "0.24.0",
-  "AssemblyName": "UkrainianLocalization.dll",
-  "EntryMethod": "UkrainianLocalization.Main.Load"
-}

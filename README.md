@@ -307,36 +307,36 @@ Solasta: Crown of the Magister належить Tactical Adventures.
 
 ### Головне меню
 
-![Головне меню українською](images/Solasta_main_menu.png)
+![Головне меню українською](images/Solasta_main_menu.webp)
 
 ### Створення персонажа
 
-![Створення персонажа українською](images/Solasta_create.png)
+![Створення персонажа українською](images/Solasta_create.webp)
 
 ### Екран персонажа
 
-![Екран персонажа українською](images/Solasta_character.png)
+![Екран персонажа українською](images/Solasta_character.webp)
 
 ### Пригода
 
-![Пригода українською](images/Solasta_adventure.png)
+![Пригода українською](images/Solasta_adventure.webp)
 
 ### Бестіарій
 
-![Бестіарій українською](images/Solasta_bestiary.png)
+![Бестіарій українською](images/Solasta_bestiary.webp)
 
 ### Завдання
 
-![Завдання українською](images/Solasta_quests.png)
+![Завдання українською](images/Solasta_quests.webp)
 
 ### Навички
 
-![Навички українською](images/Solasta_skills.png)
+![Навички українською](images/Solasta_skills.webp)
 
 ### Закляття / навички
 
-![Закляття українською](images/Solasta_skills2.png)
+![Закляття українською](images/Solasta_skills2.webp)
 
 ### Карта
 
-![Карта українською](images/Solasta_map.png)
+![Карта українською](images/Solasta_map.webp)
